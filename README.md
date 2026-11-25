@@ -122,12 +122,13 @@ The HTE experimental data reported in the manuscript can be found in `publicatio
 If you use PlateOpt, please cite:
 
 ```bibtex
-@article{Katzenburg2026,
-  title   = {Parallel and Resource-Efficient Bayesian Reaction Optimization},
-  author  = {Katzenburg, Felix and Boser, Florian and Sin, Joshua W. and Ranković, Bojana and Kopf, Sarina and Schreiner, Florian and Coersmeier, Kea and Daniliuc, Constantin G. and Hansen, Michael Ryan and Schwaller, Philippe and Glorius, Frank},
+@article{katzenburg2026plateopt,
+  title   = {Parallel and Resource-Efficient {Bayesian} Reaction Optimization},
+  author  = {Katzenburg, Felix and Boser, Florian and Sin, Joshua W. and Rankovi{\'c}, Bojana and Kopf, Sarina and Schreiner, Florian and Coersmeier, Kea and Daniliuc, Constantin G. and Hansen, Michael Ryan and Schwaller, Philippe and Glorius, Frank},
   journal = {ChemRxiv},
   year    = {2026},
-  doi     = {10.26434/chemrxiv.15012572/v1}
+  doi     = {10.26434/chemrxiv.15012572/v1},
+  url     = {https://chemrxiv.org/doi/full/10.26434/chemrxiv.15012572/v1}
 }
 ```
 
